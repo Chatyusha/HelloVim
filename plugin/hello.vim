@@ -4,4 +4,4 @@ endif
 
 let g:loaded_hellovim = 1
 
-command! -nargs=0 HelloVim call HelloVim#Hello()
+command! -nargs=0 HelloVim call hello#Hello()
