@@ -1,1 +1,4 @@
 # HELLO VIM PLUGIN
+## COMMANDS
+
+- HelloVim
